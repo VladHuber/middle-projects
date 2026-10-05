@@ -1,0 +1,19 @@
+/images/youtube.svg" alt="youtube logo" title="YouTube" /></a>
+              <a href="https://github.com/rust-lang" target="_blank"><img src="/static/images/github.svg" alt="github logo"
+                  title="GitHub" /></a>
+            </div>
+          </div>
+    
+        </div>
+        <div class="attribution">
+          <p>
+            Maintained by the Rust Team. See a bug?
+<a target="_blank" href="https://github.com/rust-lang/www.rust-lang.org/issues/new/choose">File an issue!</a>
+          </p>
+          <p>Web site built every day at 22:00 UTC</p>
+        </div>
+      </div>
+    </footer>
+    <script src="/static/scripts/languages.js"></script>
+  </body>
+</html>

@@ -1,0 +1,13 @@
+app_name = "Todo Server"
+port = 65534
+debug = true
+
+[database]
+host = "localhost"
+port = 5432
+user = "postgres"
+password = "12345"
+
+[logging]
+level = "error"
+file = "server.log"

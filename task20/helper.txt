@@ -1,0 +1,7 @@
+curl
+
+curl -X POST http://127.0.0.1:3000/paste \
+  -H "Content-Type: application/json" \
+  -d '{"text": "rust_developer"}'
+
+curl -X GET http://127.0.0.1:3000/5XcLI 

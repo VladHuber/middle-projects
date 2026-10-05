@@ -1,0 +1,11 @@
+[package]
+name = "task17"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+reqwest = {version = "0.13.4", features = ["stream"]}
+tokio = {version = "1.53.1", features = ["full"]}
+url = "2.5.8"
+indicatif = { version = "0.17", features = ["tokio"] }
+futures-util = "0.3" # нужно для работы со стримами байт
